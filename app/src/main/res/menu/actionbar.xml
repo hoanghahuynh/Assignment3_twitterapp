@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_reload"
+        android:icon="@drawable/action_reload"
+        android:title="Reload Tweet"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_tweet"
+        android:icon="@drawable/action_tweet"
+        android:title="Tweet"
+        app:showAsAction="ifRoom"/>
+
+</menu>
